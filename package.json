@@ -1,0 +1,22 @@
+{
+  "name": "ai-provider-interface-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/ai-provider-interface: check a provider call envelope before dispatch.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/ai-provider-interface": "3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/ai-provider-interface.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/ai-provider-interface"
+}

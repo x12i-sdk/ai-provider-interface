@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/ai-provider-interface",
+  "packageVersion": "3.2.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/ai-provider-interface",
+  "usageRepository": "https://github.com/x12i-sdk/ai-provider-interface",
+  "sourceRepository": "https://github.com/x12i/ai-provider-interface",
+  "sourceCommit": "6b833ff9e5256f88650c33f2cd270cb9b5d38788",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Check a provider call envelope before dispatch",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:04:09.827604+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "636427b49355af55ab94b5e6266357453f3ea5d1225e0696e675031d5c527269",
+    "manifestSha256": "73eed56bb9fb3a7b9444f7b92578a2fd09334389e135b9483d310a64c3ab4563"
+  },
+  "validationFiles": {
+    "src/index.mjs": "636427b49355af55ab94b5e6266357453f3ea5d1225e0696e675031d5c527269"
+  }
+}
